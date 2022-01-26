@@ -294,7 +294,7 @@ Don't forget to read the [configurations documentation](https://capev2.readthedo
   - Change the IP address
 
 <div style="text-align: center;">
-<img src="/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/Cuckoo_conf.png" alt="Configure IP address" style="zoom: 60%;" />
+<img src="./images/Cuckoo_conf.png" alt="Configure IP address" style="zoom: 60%;" />
 
 
 
