@@ -1,12 +1,3 @@
----
-title: CTI Installation & Connection
-author: Lucas Witvoet
-date: Monday, January 24, 2022
-creator: PI2A5 ESILV TEAM 19
-subject: Tutorial
-keywords: [CTI, CAPE, OpenCTI, MISP]
----
-
 # CTI Installation & connection guide
 
 | :exclamation:  Warning                                       |
