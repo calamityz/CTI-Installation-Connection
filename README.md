@@ -10,7 +10,7 @@ Just a little script to automate the logging process as  well as the validation 
 
 This tutorial is the result of the program Project for Industry & Innovation for master II student by [ESILV](https://www.esilv.fr/en/) and in collaboration with [Risk&Co](https://www.riskeco.com/). It was written by Elliot AILLERIE, Alexis BOURDIN, Thomas NGO and Lucas WITVOET. The project team was under the supervision of Juliette DESORMONTS, Cybersecurity consultant at Risk&co and Walter PERETTI, Head of the IT, IOT & Security Department at ESILV.
 
-For this article, we'll use **[Ubuntu 20.04](https://www.releases.ubuntu.com/20.04/) ** and **[KVM](https://wiki.debian.org/KVM)** to virtualize our Windows 7 machine (analysis machine).
+For this article, we'll use **[Ubuntu 20.04](https://www.releases.ubuntu.com/20.04/)** and **[KVM](https://wiki.debian.org/KVM)** to virtualize our Windows 7 machine (analysis machine).
 
 # Table of Contents
 
