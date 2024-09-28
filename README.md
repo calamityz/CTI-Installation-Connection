@@ -171,7 +171,7 @@ We might want to install additional software such as browsers, PDF readers, offi
 <div style="text-align: center;" >
 
 
-<img src="/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/UAC_disabled.png" alt="Disable UAC" title="This is the menu you got" style="zoom:85%;" />
+<img src="./images/UAC_disabled.png" alt="Disable UAC" title="This is the menu you got" style="zoom:85%;" />
 
 
 
@@ -181,7 +181,7 @@ We might want to install additional software such as browsers, PDF readers, offi
 <div style="text-align: center;" width="200" height="200">
 
 
-<img src="/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/Firewall_disabled.png" alt="Disable Firewall" title="This is the menu you got" style="zoom:85%;" />
+<img src="./images/Firewall_disabled.png" alt="Disable Firewall" title="This is the menu you got" style="zoom:85%;" />
 
 <div style="page-break-after:always" />
 
@@ -219,14 +219,14 @@ Make sure both the guest (Win7) and host (Ubuntu) can be ping each other :
 <div style="text-align: center;">
 
 
-![Host ping Guest](/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/Host_ping_guest.png "Host ping Guest")
+![Host ping Guest](./images/Host_ping_guest.png "Host ping Guest")
 
 
 
 <div style="text-align: center;">
 
 
-![Guest ping Host](/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/Guest_ping_host.png "Guest ping Host")
+![Guest ping Host](./images/Guest_ping_host.png "Guest ping Host")
 
 
 
@@ -249,7 +249,7 @@ Set the policy to enabled :
 <div style="text-align: center;">
 
 
-![Turn off LLMNR](/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/LLMNR_disabling.png "This is the menu you got")
+![Turn off LLMNR](./images/LLMNR_disabling.png "This is the menu you got")
 
 
 
@@ -262,7 +262,7 @@ Set the policy to enabled :
 <div style="text-align: center;">
 
 
-![Enable Restrict Internet Communication](/Users/lucas/OneDrive - De Vinci/Cours/A5/Pi2-A5/Pi2 Installation Guide/images/network_connectivity_disabling.png "Enable Restrict Internet Communication")
+![Enable Restrict Internet Communication]./images/network_connectivity_disabling.png "Enable Restrict Internet Communication")
 
 
 
